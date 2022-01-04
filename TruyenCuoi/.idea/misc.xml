@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/TruyenCuoi/app/src/main/res/drawable/bg_edit_text.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/TruyenCuoi/app/src/main/res/drawable/bg_edittext.xml" value="0.209375" />
+        <entry key="..\:/AndroidStudioProjects/TruyenCuoi/app/src/main/res/drawable/bg_progress_bar.xml" value="0.1875" />
+        <entry key="..\:/AndroidStudioProjects/TruyenCuoi/app/src/main/res/layout/activity_main.xml" value="0.19322916666666667" />
+        <entry key="..\:/AndroidStudioProjects/TruyenCuoi/app/src/main/res/layout/item_topic.xml" value="0.21" />
+        <entry key="..\:/AndroidStudioProjects/TruyenCuoi/app/src/main/res/layout/m000_act_loading_app.xml" value="0.17314814814814813" />
+        <entry key="..\:/AndroidStudioProjects/TruyenCuoi/app/src/main/res/layout/m001_act_share_pre.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/TruyenCuoi/app/src/main/res/layout/m002_act_main.xml" value="0.22" />
+        <entry key="..\:/Users/999/Desktop/TruyenCuoi/TruyenCuoi/app/src/main/res/drawable/bg_edit_text.xml" value="0.316196542311192" />
+        <entry key="..\:/Users/999/Desktop/TruyenCuoi/TruyenCuoi/app/src/main/res/layout/actionbar_main.xml" value="0.5" />
+        <entry key="..\:/Users/999/Desktop/TruyenCuoi/TruyenCuoi/app/src/main/res/layout/item_detail_story.xml" value="0.26481481481481484" />
+        <entry key="..\:/Users/999/Desktop/TruyenCuoi/TruyenCuoi/app/src/main/res/layout/item_menu.xml" value="0.3037037037037037" />
+        <entry key="..\:/Users/999/Desktop/TruyenCuoi/TruyenCuoi/app/src/main/res/layout/item_story.xml" value="0.49841772151898733" />
+        <entry key="..\:/Users/999/Desktop/TruyenCuoi/TruyenCuoi/app/src/main/res/layout/item_topic.xml" value="0.2675925925925926" />
+        <entry key="..\:/Users/999/Desktop/TruyenCuoi/TruyenCuoi/app/src/main/res/layout/m000_act_loading_app.xml" value="0.3037037037037037" />
+        <entry key="..\:/Users/999/Desktop/TruyenCuoi/TruyenCuoi/app/src/main/res/layout/m000_act_splash.xml" value="0.3037037037037037" />
+        <entry key="..\:/Users/999/Desktop/TruyenCuoi/TruyenCuoi/app/src/main/res/layout/m001_act_share_pre.xml" value="0.2984531392174704" />
+        <entry key="..\:/Users/999/Desktop/TruyenCuoi/TruyenCuoi/app/src/main/res/layout/m002_act_main.xml" value="0.33" />
+        <entry key="..\:/Users/999/Desktop/TruyenCuoi/TruyenCuoi/app/src/main/res/layout/m003_act_detail.xml" value="0.3037037037037037" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

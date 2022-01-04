@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Truyện Cười</string>
+    <string name="txt_hint_edt_name">BRO TEN GI?</string>
+    <string name="txt_con_gai">Con gái</string>
+    <string name="txt_hi">Hi !</string>
+    <string name="txt_title">Truyện cười 24/7\n😊😂😆😍😘</string>
+    <string name="txt_version">Version: 1.0</string>
+    <string name="txt_design_by">Design by:</string>
+    <string name="txt_content">Lúc bé, nghỉ học là chuyện lạ. Lớn lên mới biết, chuyện lạ là đi học. Lúc bé, tưởng đến trường là phải học. Lớn lên mới biết, đến trường còn được ngủ. Lúc bé, tưởng thi xong là hết. Lớn lên mới biết , sau thi còn có thi lại. Lúc bé , tưởng điểm 10 mới là giỏi. Lớn lên mới biết, chỉ 5 thôi đã quý lắm rồi. Lúc bé, tưởng càng học càng giỏi.... Lớn lên mới biết, càng học càng ngu</string>
+    <string name="txt_story_title">Đã 2 lần rồi</string>
+    <string name="txt_back"><![CDATA[<< Quay lại]]></string>
+    <string name="txt_next"><![CDATA[Tiếp >>]]></string>
+    <string name="txt_design">Design by: TechJAK11</string>
+    <string name="txt_example_story_name">Nó hình gì?</string>
+</resources>
